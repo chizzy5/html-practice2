@@ -1,0 +1,116 @@
+.top-box{
+
+	border: 1px solid black;
+	width: 900px;
+	height: 200px;
+	background-color: white;
+	border-bottom-right-radius:20px;
+	border-bottom-left-radius: 20px;
+	padding: 20px 10px;
+	 
+}
+body {
+	background-color: aqua;
+}
+
+.blue-box{
+	height: 20px;
+	background-color: blue;
+    width: 920px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+.major-box {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items:center;
+	padding: 20px;
+
+}
+.inputbox1 {
+	background-color: white;
+    width: 80vh;
+    height: 50px;
+    margin: 10px 0;
+    padding: 40px 20px;
+    border-radius: 10px;
+}
+.inputbox2 {
+	background-color: white;
+	width: 80vh;
+	height: 50px;
+	margin: 10px 0;
+	padding: 40px 20px;
+	border-radius: 10px;
+}
+.inputbox3 {
+	background-color: white;
+	width: 80vh;
+	height: 50px;
+	margin: 10px 0;
+	padding: 40px 20px;
+	border-radius: 15px;
+
+}
+.inputbox4 {
+	background-color: white;
+	width: 80vh;
+	height: 80px;
+	margin: 10px 0;
+	padding: 40px 20px;
+	border-radius: 15px;
+}
+.inputbox5 {
+	background-color: white;
+	width: 80vh;
+	height: 80px;
+	margin: 10px 0;
+	padding: 40px 20px;
+	border-radius: 15px;
+}
+.inputbox6 {
+
+	background-color: white;
+	width: 80vh;
+	height: 80px;
+	margin: 10px 0;
+	padding: 40px 20px;
+	border-radius: 15px;
+}
+.inputbox7 {
+
+	background-color: white;
+	width: 80vh;
+	height: 80px;
+	margin: 10px 0;
+	padding: 40px 20px;
+	border-radius: 15px;
+}
+.inputbox8 {
+
+	background-color: white;
+	width: 80vh;
+	height: 80px;
+	margin: 10px 0;
+	padding: 40px 20px;
+	border-radius: 15px;
+}
+.inputbox9 {
+	
+	background-color: white;
+	width: 80vh;
+	height: 80px;
+	margin: 10px 0;
+	padding: 40px 20px;
+	border-radius: 15px;
+}
+.inputbox10 {
+	background-color: white;
+	width: 80vh;
+	height: 80px;
+	margin: 10px 0;
+	padding: 40px 20px;
+	border-radius: 15px;
+}
+

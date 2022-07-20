@@ -1,0 +1,32 @@
+.nav-bar {
+	height: 120px;
+	background-color: pink;
+}
+.main-box {
+	height: 100vh; 
+}
+.section {
+	height:200px;
+	width:100;
+	background-color: pink;
+	margin-top: 10px; 
+}
+.articles {
+	height: 60%;
+	margin-top:15px;
+	display: flex;
+	justify-content: space-between;
+}
+.articles div {
+	height: 250px;
+	width: 25%;
+	background-color: pink;
+	margin: 10px;
+}
+
+.footer{
+	height: 50%;
+	background-color: pink;
+	margin-top: 10px;
+}
+
